@@ -1,5 +1,6 @@
 # Welcome to Guess Their Answer: Put Your Trivia Skills to the Test!
 Dive into Guess Their Answer! Compete to predict the most popular responses, earn points, unlock unique skins, and prove you're the trivia king! Start your game at [Guess Their Answer](https://guess-their-answer.com/)
+![Guess Their Answer Cover](guess-their-answer_cover.webp)
 
 ## Guess Their Answer Introduction
 ### About Guess Their Answer
